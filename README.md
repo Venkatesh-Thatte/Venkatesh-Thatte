@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-omega-murex.vercel.app/](https://portfolio-website-omega-murex.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://github.com/Venkatesh-Thatte)
 
 - 📫 How to reach me **thattevenkatesh814@gmail.com**
 
